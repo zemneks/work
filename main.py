@@ -5,8 +5,8 @@ import telebot
 import pandas as pd
 
 # Telegram Bot Token
-TELEGRAM_TOKEN = '8096066446:AAEmHYj0TDOljFjrq4E-avfOP9cEoUfr9Uk'
-CHAT_ID = '195089851'
+TELEGRAM_TOKEN = '-'
+CHAT_ID = '195'
 bot = telebot.TeleBot(TELEGRAM_TOKEN)
 
 # Load instruments from file
